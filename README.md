@@ -7,3 +7,10 @@
 
 ```bash
 pip install streamlit pandas numpy plotly scipy
+```
+
+### Run the following command to launch the app:
+
+```bash
+streamlit run app.py
+```
