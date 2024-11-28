@@ -1,4 +1,4 @@
-#### Description : An advanced bank transaction analysis dashboard using Streamlit that visualizes financial trends, detects anomalies, and provides personalized recommendations based on user transaction data.
+#### Description : An advanced bank transaction dashboard using Streamlit that shows financial trends, detects unusual activities, and gives personalized recommendations based on your transaction data.
 
 ## Requirements
 
